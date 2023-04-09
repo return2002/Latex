@@ -1,13 +1,7 @@
 # Latex
 
-Select: Done
-创建日期: 2023/04/09
-更新时间: April 9, 2023 12:02 PM
-进度: 100
-
 1. **`希腊字母`**
-   
-    $$
+   $$
     \alpha,\beta,\gamma,\delta,\epsilon,\varepsilon,\eta,\theta,\pi,\rho,\sigma,\Phi,\omega,\varphi,
     $$
     
